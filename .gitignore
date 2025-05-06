@@ -25,9 +25,9 @@
 
 # Visual Studio cache directory
 .vs/
-.vscode/
-
-.utmp/
+/.vscode/
+TempAssembly.dll
+/.utmp/
 
 3dpaint_BurstDebugInformation_DoNotShip/
 
