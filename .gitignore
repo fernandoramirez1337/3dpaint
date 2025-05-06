@@ -25,6 +25,11 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+
+.utmp/
+
+3dpaint_BurstDebugInformation_DoNotShip/
 
 # Gradle cache directory
 .gradle/
