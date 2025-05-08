@@ -5,11 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/SyntyStudios/PolygonCity/Scenes/Demo.unity
+    guid: 35299a6a99d6dfe4bb709527ba95aab0
+  - enabled: 0
+    path: Assets/SyntyStudios/PolygonAdventure/Scenes/Demo.unity
+    guid: e120d0e37ab427a4cb1c20085b85c472
+  - enabled: 1
+    path: Assets/Scenes/LayersScene.unity
+    guid: c955bd49fb13d44b7bbe4209d4fdda73
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: bdcea21cff57c4c8992b212a68b7e9df, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ee0927c4856c04760bc361db0912e5f1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9eb79873d9772465b918a0f1d40e4142, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5de3b5ffadff345a7965b3f8a08e7011, type: 2}
