@@ -14,9 +14,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SyntyStudios/PolygonAdventure/Scenes/Demo.unity
     guid: e120d0e37ab427a4cb1c20085b85c472
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LayersScene.unity
     guid: c955bd49fb13d44b7bbe4209d4fdda73
+  - enabled: 0
+    path: Assets/Scenes/RadialScene.unity
+    guid: eafe3e818b08e4b02bb994ca7ee311cd
+  - enabled: 0
+    path: Assets/Scenes/DrawScene.unity
+    guid: 50b6698d7b3c042e1975f6bff753cb69
+  - enabled: 0
+    path: Assets/Scenes/LayersScene2.unity
+    guid: 50648f59870c64a4a9077c8b06fbe3f2
+  - enabled: 1
+    path: Assets/Scenes/SceneScene.unity
+    guid: 968140ae69cc9425e9a780067b837b7e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: bdcea21cff57c4c8992b212a68b7e9df, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ee0927c4856c04760bc361db0912e5f1, type: 2}
